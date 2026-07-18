@@ -10,8 +10,8 @@ Six related sheets, about 5,000 transactions total: Orders, Customers, Products,
 
 - [x] Day 1: Data Cleaning
 - [x] Day 2: Excel Functions
-- [ ] Day 3: Pivot Tables
-- [ ] Day 4: Visualizations
+- [x] Day 3: Pivot Tables
+- [x] Day 4: Visualizations
 - [ ] Day 5: Dashboard
 - [ ] Day 6: Business Insights
 - [ ] Day 7: Presentation
