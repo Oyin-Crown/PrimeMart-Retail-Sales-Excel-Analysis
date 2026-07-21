@@ -12,8 +12,8 @@ Six related sheets, about 5,000 transactions total: Orders, Customers, Products,
 - [x] Day 2: Excel Functions
 - [x] Day 3: Pivot Tables
 - [x] Day 4: Visualizations
-- [ ] Day 5: Dashboard
-- [ ] Day 6: Business Insights
+- [x] Day 5: Dashboard
+- [x] Day 6: Business Insights
 - [ ] Day 7: Presentation
 
 ## Tools
@@ -22,4 +22,4 @@ Excel (Tables, PivotTables, Slicers, XLOOKUP, INDEX/MATCH, Dashboards)
 
 ## Author
 
-Oyinkansola Matesun
+Oyinkansola Adeola Matesun
