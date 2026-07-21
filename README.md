@@ -14,7 +14,7 @@ Six related sheets, about 5,000 transactions total: Orders, Customers, Products,
 - [x] Day 4: Visualizations
 - [x] Day 5: Dashboard
 - [x] Day 6: Business Insights
-- [ ] Day 7: Presentation
+- [x] Day 7: Presentation
 
 ## Tools
 
